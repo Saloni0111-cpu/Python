@@ -1,5 +1,10 @@
 #Variables in Python
 a = 10 #integer
 b = 2.5678 # float
-here, a is the variable to which the int value 10 is assigned
+#here, a is the variable to which the int value 10 is assigned
 and b is the other variable to which float value 2.5678 is assigned
+
+#strings in python
+x = "LEARN PYTHON WITH ME"
+# strings are usually represented by single or double inverted commas in python
+y = 'Bring the best out of you in the worst situation'
