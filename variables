@@ -18,3 +18,16 @@ python has vast number of libraries, including
 4.Numpy
 5.Scipy,etc
 
+
+#LOOPS in python
+There are two types of loops in Python:
+1.for loops.
+2.while loops.
+
+#functions in python
+function is a block of code 
+the syntax to declare a function is:
+def function_name(arguments):
+    # function body 
+
+    return
