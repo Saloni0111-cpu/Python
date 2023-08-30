@@ -8,3 +8,13 @@ and b is the other variable to which float value 2.5678 is assigned
 x = "LEARN PYTHON WITH ME"
 # strings are usually represented by single or double inverted commas in python
 y = 'Bring the best out of you in the worst situation'
+
+#Libraries in python
+A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs.
+python has vast number of libraries, including
+1.TensorFlow
+2.Matplotlib
+3.Pandas
+4.Numpy
+5.Scipy,etc
+
